@@ -7,4 +7,4 @@ They have been highly praised for the design and simplicity of their site, and t
 More on this project check [TheOdinProject](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/html-and-css/lessons/html-forms).
 
 ## Success Preview:
-A successful completion of this task can be previewed at [success preview]()
+View this success at [success preview]( https://gbadesimple.github.io/html-forms/)
