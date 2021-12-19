@@ -14,8 +14,11 @@ body {
   background-color: #eceef1;
 }
 header {
-  padding-left: 300px;
+  float: right;     /* float */
   text-align: right;
+}
+.logo {
+  clear: both;    /* clear complement the float */
 }
 code {
   font-size: 10px;
